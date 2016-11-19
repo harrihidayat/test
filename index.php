@@ -5,6 +5,6 @@
 	<title>Test Push</title>
 </head>
 <body>
-	
+	<a href="blog.php">Blog</a>
 </body>
 </html>
