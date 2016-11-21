@@ -6,5 +6,6 @@
 </head>
 <body>
 	<a href="blog.php">Blog</a>
+	<a href="contact.php">Contact</a>
 </body>
 </html>
