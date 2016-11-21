@@ -9,5 +9,13 @@
 	<a href="blog.php">Blog</a>
 	<a href="contact.php">Contact</a>
 	</nav>
+
+	<header>
+	halo
+	</header>
+
+	<main>
+	<p>branchbaru</p>
+	</main>
 </body>
 </html>
